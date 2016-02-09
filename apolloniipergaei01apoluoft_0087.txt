@@ -1,0 +1,54 @@
+comooRUM LIBER 1. 2 69
+
+XVII.
+
+Si in sectione coni a uertice lineae recta rectae
+
+ordinate ductae parallela ducitur, extra sectionem cadet.
+
+sit coni sectio, cuius diametrus sit AB. dico,
+
+rectam a uertice, hoc est a puncto A, rectae ordinate
+ductae parallelam ductam extra sectionem cadere.
+
+nam si fieri potest, intra cadat ut ΑΓ. iam quo-
+
+niam in coni sectione sumptum est punctum aliquod
+
+Γ, recta a Γ puncto intra
+
+Γ sectionem ducta rectae ordi-
+
+nate ductae parallela cum
+
+diametro AB concurret et ab
+
+ea in duas partes aequales
+
+A B secabitur [prop. VII]. itaque
+
+A Γ producta ab AB in duas
+
+partes aequales secabitur3
+
+quod fieri non postet3 pro-
+
+ducta enim ΑΓ extra sectio-
+
+nem cadit [prop. X]. itaque recta ab A puncto rectae
+
+ordinate ductae parallela ducta intra lineam non cadet.
+
+ergo extra cadet3 quare sectionem contingit.
+
+XVIII.
+
+Si recta cum coni sectione concurrens in utram-
+que partem producta extra sectionem cadit, et intra
+sectionem punctum aliquod sumitur, et per hoc rectae
+concurrenti parallela ducitur recta, recta ita ducta in
+utramque partem producta cum sectione concurret.
+
+sit coni sectio et cum ea concurrens recta AZB,
+et in utramque partem producta extra sectionem cadat,
+

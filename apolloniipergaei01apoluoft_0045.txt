@@ -1,0 +1,42 @@
+ 
+
+comcoRUM Lmfflz 1. 27
+
+nam quoniam conuS, cuius uertex est A punctum,
+basis autem circulus ΒΓ, plano per axem secatur,
+
+ξ et hoc sectionem efficit triangulum ΑΒΓ, in super-
+'2²¹ ficie autem sumptum est punctum Θ, quod in latere
+trianguli ΑΒΓ 11011 est, et AH ad ΒΓ perpendicularis
+3¹ ·est‚ recta per Θ rectae A H parallela ducta, lioc est
+³ ΘΚ, cum triangulo ΑΒΓ concurret et ad alteram
+
+Ἰ partem superficiei producta a triangulo in duas partes
+
+„ ,Δ ,ΗΝ-
+
+aequales secabitur [prop. VIJ. iam quoniam recta per
+Θ rectae A E parallela ducta cum triangulo ΑΒΓ con-
+currit et in plano sectionis AZE est, in communem
+sectionem plani secantis triangulique ΑΒΓ cadet.
+communis autem planorum sectio est ZH; itaque
+recta per Θ rectae AE parallela ducta in ZH cadet3
+
+¹et ad alteram partem sectionis A ZE 'producta a recta
+- ZH in duas partes aequales secabitur.
+
+iam igitur aut rectus est conUS, aut triangulus ΑΒΓ
+per axem positus ad circulum ΒΓ perpendicularis est,
+
+· aut neutrum.
+
+prius conus rectus sit. itaque etiam triangulus ΑΒΓ
+ad circulum ΒΓ perpendicularis est [def. 33 Eucl. XI, 18].
+quoniam igitur planum ΑΒΓ ad planum ΒΓ perpen-
+diculare est, et in plano altero ΒΓ ad communem
+eorum sectionem ΒΓ perpendicularis ducta est AE, AE
+ad triangulum A ΒΓ perpendicularis est [Eucl. XI def. 4].
+quare etiam ad omnes rectas eam tangentes et in
+triangulo ΑΒΓ positas perpendicularis est [Eucl. XI
+def. 3]. ergo etiam ad ZH perpendicularis est.
+

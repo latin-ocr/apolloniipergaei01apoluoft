@@ -1,0 +1,47 @@
+ 
+
+ξ
+
+ 
+
+comcoRUM LIBER 1. “ 89
+
+, V K A, ct ponatur HM -= A Θ, ‘et rectae ordinate ductae
+
+parallela ducatur MN, et in directum producatur ΕΗ,
+ut fiat HN. iam quoniam
+K A rectae MN, ΚΘ rectae
+HN parallela est, et AM
+una est recta, erit
+
+ΚΘΛ ω H MN.
+et ΛΘ = ΗΜ, quare
+
+Ν ΚΛ = MN
+[Eucl. VI, 4]. quare etiam ΚΑΒ = MN 2. et quoniam
+Ao=HM, Affl= ΒΗ, et AB communis est, erit
+BA = AM. itaque erit
+
+BA><AA=AM><MB.
+quare
+ΔΒΛ><ΛΑΞΚΛ2-’--ΑΜ>< MB:MN2.
+est autem ut BA >< AA ad A K ², ita latus transuersum
+
+, ad latus rectum [prop. ΧΧΙ]. quare etiam ut
+
+AM >< ΜΒ : Μ Ν ²,
+ita latus transuersum ad latus rectum. ergo N in
+sectione est [ib.]. ergo EZ producta cum sectione
+in N concurret.
+iam similiter demonstrabimus„ eam etiam ad alte·
+ram partem productam cum sectione concurrere.
+
+XXIX.
+
+Si in oppositis recta per centrum ad utramuis sec·
+tionum adddit, producta alteram sectionem secabit.
+
+sint oppositae, quarum diametrus sit AB, centrum
+autem Γ, et ΓΔ sectionem AA secet. dico, eam
+etiam alteram sectionem secaturam esse.
+

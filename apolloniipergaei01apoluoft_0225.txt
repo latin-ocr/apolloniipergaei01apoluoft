@@ -1,0 +1,47 @@
+conlcontm LIBER Π. 207
+
+ΑΓ in H in duas partes aequales secetur, et
+ducatur AH3 ea igitur diametrus sectionis est [prop. VII].
+Ε itaque recta in B contingens
+
+ΔΔή
+*Q parallelae sunt, et ΚΘ cum
+AK, A Θ concurrit, etiam ΛΓ
+
+Ζ cum ΔΕ, Δ Ζ concurret.
+
+concurrat in Ε, Ζ. et ΘΒ =BK3 quare etiam
+[Eucl. VI, 4] ZH= HE. ergo etiam ΓΖ = AE.
+
+rectae A Γ parallela est
+[prop. V -— VI ]. contingat
+igitur Θ Β Κ. itaque cum
+
+EA, AZ concurret [prop.III].
+quoniam igitur A Γ et Κ Θ
+
+      
+
+ΙΧ.
+
+Si recta cum asymptotis concurrens ab hyperbola
+in duas partes aequales secatur, in uno puncto solo
+sectionem tangit.
+
+recta enim ΓΔ cum asymptotis ΓΑΔ concurrens
+ab hyperbola in puncto E in duas partes aequales
+secetur. dico, eam in nullo alio puncto sectionem
+tangere.
+
+nam si fieri potest, tangat in Β. itaque ΓΕ = BA
+[prop. V111]3 quod absurdum est3 supposuimus enim,
+esse FE= EA. ergo ΓΔ in nullo alio puncto
+sectionem tangit. ·
+
+Χ.
+
+Si recta aliqua sectionem secans cum utraque
+asymptota concurrit, rectangulum comprehensum rectis
+inter asymptotas sectionemque abscisis aequale est
+quartae parti figurae ad diametrum effectae, quae
+

@@ -1,0 +1,38 @@
+OONJOORUM LIBER Ι. 29
+
+ne sit igilur rectus conus, iam si {zriangulus per
+axem posiizus ad circulum ΒΓ perpendicularis est,
+
+eodem modo demonstrabimuS‚ etiam AE ad ZH
+Ἰ perpendicularem esse. ne sit igitur triangulus per
+axem posissus ΑΒΓ ad circulum ΒΓ perpendicularis,
+dico, ne AE quidem ad ZH perpendicularem csse.
+nam si fieri potest, sit. uerum etiam ad ΒΓ perpen-
+ζ dicularis esis. A E igitur ad u'nramque ΒΓ, ΖΗ perpen-
+² dicularis θεὲ, quare etiam ad planum per ΒΓ, ΖΗ
+ductum perpendicularis erit [Eucl. XI, 4]. planum
+autem rectarum ΒΓ, ΗΖ est ABF3 quare AE etiam
+ad ssriangulum ΑΒΓ perpendicularis esi„ itaque etiam
+omnia plana per eam ducta ad lariangulum ΑΒΓ
+perpendicularia sunt [Eucl. XI, 18]. uerum inter plana
+1per AE ducta est circulus ΒΓ; quare circulus ΒΓ ad
+’ triangulum ΑΒΓ perpendicularis est. iraque eliam
+triangulus ΑΒΓ ad circulum ΒΓ perpendicularis erit3
+
+quod contra hypothesim est. ergo A E ad ZH perpen-
+dicularis non est.
+
+Corollarium.
+
+hinc manifeslzum est, ZH diametrum esse sectionis
+AZE [def. 4] ‚ quoniam recbas recbae alicui AE par-
+allelas ductas in binas partes aequales secat, eh fieri
+posse, ut parallelae a diametro ZH in binas partes
+aequales secenlzur, etiam si ad angulos recbos non fiat.
+
+VIII.
+
+Si conus per axem plano secatur eb alio quoque
+plano secatur, quod basim coni seeundum rectam secat
+ad basim trianguli per axem posibi perpendicularem,
+

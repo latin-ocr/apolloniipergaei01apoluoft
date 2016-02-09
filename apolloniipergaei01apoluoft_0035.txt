@@ -1,0 +1,47 @@
+CONICORUM LIBER 1. 17
+
+concidit. concidat in H, et per A Z planum ducatur.
+sectio igitur ΑΒΓ triangulus erit [prop. III]. et quo-
+
+* niam puncta Δ, Η, Ε in plano secanti sunt, uerum
+
+etiam in plano ΑΒΓ, ΔΗΕ recta est [Eucl. XI, 3}
+sumatur igitur in linea AE ‘punctum aliquod Θ, et
+ducta A Θ producatur. concidet igitur cum ambitu ΒΓ.
+concidat in K, et ducantur ΗΘ, ΖΚ. et quoniam duo
+plana parallela AE, ΒΓ plano ΑΒΓ secantur, com-
+
+, munes eorum sectiones parallelae sunt [Eucl. XI, 16].
+
+itaque ΔΕ rectae ΒΓ parallela est. eadem de causa
+
+’ etiam ΗΘ rectae KZ parallela est. itaque [Eucl. VI,· 4]
+ZA:AH== ZB:AH=-= ZF2HE= ΖΚεΗΘ. et ⁴
+· ΒΖ = KZ = ΖΓ. quare etiam AH= ΗΘ = HE
+
+[Eucl. V, 9]. iam similiter demonstrabimUS‚ etiam
+omnes rectas ab H puncto ad lineam A E adcidentes
+
+s inter se· aequales esse.
+
+ergo linea ΔΕ circulus est centrum in axe habens
+
+et manifestum est, figuram -circulo A E et super-
+ficie conica ab eo abscisa ad A punctum comprehensam
+conum esse.
+
+et simul demonstratum est, sectionem communem
+plani secantis triangulique per axem positi diametrum
+circuli esse.
+
+V.
+
+Si conus obliquus per axem plano ad basim per-
+pendiculari secatur et simul alio plano secatur ad
+triangulum per axem positum perpendiculari, quod ad
+uerticem triangulum abscindat triangulo per axem
+posito similem, sed e contrario positum, sectio circu-
+
+lus erit3 adpelletur autem talis sectio contraria.
+Apollonius, ed. Heiberg. 2
+

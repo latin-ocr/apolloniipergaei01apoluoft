@@ -1,0 +1,39 @@
+OONICORUM LIBER 11. 27 7
+
+[dat. 29]. quare A datum est [dat. 25]. uerum
+etiam E datum est. ergo ΑΕ positione data est
+[dat. 26].
+
+componetur hoc modo: ponatur BA = ΒΕ, et a
+A ad EA perpendicularis erigatur AA, ducaturque
+AE. manifestum igitur, AE· contingere [I, 35].
+
+.et manifestum est, etiam si datum punctum idem
+sit ac Β, rectam a Β perpendicularem ductam sec—
+tionem contingere [1, 17].
+
+iam sit Γ punctum datum, et factum sit, sitque
+ΓΛ, per Γ autem axi, hoc est rectae BA, parallela
+ducatur ΓΖ; itaque ΓΖ positione data est [dat. 28].
+et ab A ad ΓΖ ordinate ducatur ΛΖ, itaque erit
+[I, 35] ΓΗ --- ΖΗ. et H datum est [dat. 25]; itaque
+etiam Z datum est [dat. 27]. et ZA ordinate erecta
+est, hoc est rectae in H contingenti parallela3 itaque
+ZA positione data est [dat. 28]. quare A datum est
+[dat. 25]. uerum etiam Γ datum est. ergo ΓΑ
+positione data est [dat. 26].
+
+componetur hoc modo: per Γ ΥεαὺᾶἁΒΔ parallela
+ducatur ΓΖ, et ponatur ZH = ΓΗ, rectaeque in H
+contingenti parallela ducatur ZA‚ ducatu‘rque ΑΓ.
+manifestum igitur [I, 35], hanc problema effectu-
+ram esse.
+
+Rursus sit hyperbola‚ cuius axis sit ΔΒΓ, centrum
+autem Θ, asymptotae autem ΘΕ, ΘΖ. datum igitur
+punctum aut in sectione dabitur aut in axe aut intra
+angulum ΕΘΖ aut in spatio deinceps posito aut in
+altera asymptotarum sectionem continentium aut in
+spatio inter rectas posito, quae angulum angulo ΖΘΕ
+ad uerticem positum continent.
+

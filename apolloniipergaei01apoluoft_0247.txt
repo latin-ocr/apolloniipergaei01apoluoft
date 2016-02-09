@@ -1,0 +1,43 @@
+ 
+
+’ ⁴ υ '‘rsa-⁴ *a «Δ Α
+
+fl
+comcossUM LIBER 11. 229
+
+et latera angulos aequales ad K, A positos comprehen—
+dentia proportionalia sunt3 similes igitur sunt trianguli
+ΕΚ Χ, ΗΘΛ et angulos aequales habebunt, sub quibus
+latera correspondentia subtendunt [Eucl. VI, 6]. erit
+igitur L EXK = L ΛΗΘ. est autem etiam
+L KXH= L AHX [Eucl. Ι, 29];
+
+quare etiam L EXH = L ΘΗΧ. ergo EX rectae ΗΘ
+parallela est [Eucl. Ι, 27].
+
+iam fiat IIH: HP= ΘΗε Σ. itaque Σ dimidia
+est parametrus diametri Η Ο in sectionibus Γ, Δ
+[Ι, 51]. et quoniam sectionum A, Β altera diametrus
+est ΓΔ [I, 56]‚ et cum ea concurrit ET, erit
+
+TX>< ΕΚ == FX23
+nam si ab E rectam rectae ΚΧ parallelam duxerimuS‚
+rectangulum comprehensum recta TX rectaque a
+parallela abscisa aequale erit quadrato ΓΧ [1, 38].
+propterea autem est ΤΧ : ΕΚ = ΤΧΖ) : ΧΓ2 [Eucl.VI, 173
+V def. 9]. est autem [Eucl. VI, 4]
+TX: ΕΚ = TZ t ΖΕ = Δ ΤΧΖ : EZX [Eucl. VI, 1],
+et [Eucl. VI, 19]
+TX2 : ΓΧ2 = XTZ : XFH= XTZ ε ΗΘΧ [u. I, 43].
+itaque ΤΧΖεΕΖΧ-τὲ TZX: ΧΗΘ. quare [Eu01.V,9]
+ΗΘΧΞ XEZ. habent autem etiam L ΘΗΧ-- ΧΕΖ
+[Eucl. Ι, 29]; nam parallelae sunt EX, ΗΘ et ΕΖ,
+ΗΧ. itaque latera aequales angulos comprehendentia
+in contraria proportione sunt [Eucl. VI, 15]; est igitur
+ΗΘ : EX= ΕΖ : HX3 quare [Eucl. VI, 16]
+ΘΗ><ΗΧ---ΧΕ><ΕΖ.
+et quoniam est Σ; ΘΗΞ PH: ΗΠ, et
+PH: HH= XE: EZ [Eucl. VI, 4]
+
+(parallelae fenim sunt), erit etiam Σε ΘΗ = XE ε ΕΖ.
+

@@ -1,0 +1,60 @@
+comooRUM LIBER 1. , 19
+
+sit conus obliqum, cuius uertex sit A punctum,
+basis autem circulus ΒΓ, et per axem secetur plano
+ad circulum ΒΓ perpendiculari, et
+
+hoc sectionem efficiat 'triangulum
+ΑΒΓ [prop. III]. iam etiam alio
+,¹ {s plano secetur ad triangulum ΑΒΓ
+
+   
+  
+
+. perpendiculari, quod ad A punctum
+ι’ abscindat triangulum A KH similem
+triangulo ΑΒΓ, sed e contrario po-
+situm, h. 6. ita ut sit
+
+L A KH = L A ΒΓ .
+et in superficie efficiat sectionem lineam ΗΘΚ. dico,
+lineam ΗΘΚ circulum 6886.
+
+sumantur enim in lineis ΗΘΚ, ΒΓ puncta aliqua
+
+A
+A*
+
+ 
+
+m Γ
+
+2 Θ, Λ, et a punctis Θ, Λ ad planum trianguli ΑΒΓ
+
+’ perpendiculares ducantur3 cadent igitur ad communes
+sectiones planorum [Eucl. XI def. 6]. cadant ut
+
+ΖΘ, AM. itaque ΖΘ, Λ Μ parallelae sunt [Eucl. XI, 6].
+ducatur igitur per Z rectae ΒΓ parallela A ΖΕ. uerum
+
+2 etiam ΖΘ rectae AM parallela est. itaque planum
+
+rectarum ΖΘ, Δ Ε basi coni parallelum est [Euc-l. XI, 15].
+quare circulus est, cuius diametrus est A E [prop. IV].
+itaque est [Eucl. VI, 8] A Z >< ΖΕ = 2692. et quon-
+iam EA, ΒΓ parallelae sunt, erit L ΑΔΕ = L ΑΒΓ
+
+³ [Eucl. Ι, 29]. uerum supposuimUS, esse L A KH = L A Β Γ,
+
+quare effiam l. Α ΚΗ -π L A AE. uerum etiam anguli
+
+1 ad Z punctum positi aequales sunt [Eucl. I, 15]. ita-
+
+ 
+
+que AZH Ν Κ ΖΕ. , quare [Eucl. VI, 4]
+EZ:ZK=HZ:ZA.
+itaque EZ >< ZA = KZ >< ZH [Eucl. VI, -17].
+
+2²10
+

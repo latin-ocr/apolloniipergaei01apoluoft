@@ -1,0 +1,45 @@
+ 
+
+ 
+
+comcoleM LIBER 11. 235
+
+XXIII. ‘
+
+Si in oppositis coniugatis e centro recta ad quamuis
+sectionum ducitur, eique parallela recta ducitur cum
+tribus sectionibus deinceps
+positis concurrens, rect-
+angulum comprehensum par-
+tibus rectae ductae inter
+tres sectiones ortis duplo
+maius est quadrato radii.
+
+sint A, Β, Γ, Δ sectio-
+nes oppositae coniugatae‚
+centrum autem sectionum
+sit X, et a X ad quamuis
+sectionum adcidat recta ali-
+qua Γ Χ , rectaeque ΓΧ
+
+· parallela ducatur KA tres sectiones deinceps positas
+
+secans, dico, esse ΚΜ >< ΜΛ = 2FX2.
+
+ducantur asymptotae sectionum ΕΖ, Η Θ; itaque
+ΓΧ2 '= ΘΜ>< ME[prop.XXII] = ΘΚ >< ΚΕ [prop.XI].
+est autem ΘΜ>< ΜΕ-Ι- ΘΚ><ΚΕΞ ΛΜ>< ΜΚ
+
+[n. Eutocius], quia extrema aequalia sunt [prop. VIII
+et XVI]. ergo etiam AM >< MK == FX2.
+
+XXIV.
+
+Si cum parabola duae rectae concurrunt singulae
+in binis punctis, neutriusque earum punctum concursus
+punctis concursus alterius continetur, rectae inter se
+extra sectionem concurrent.
+
+sit parabola ΑΒΓΔ, et cum ΑΒΓΔ duae rectae
+concurrant Α Β, ΓΔ, neutriusque earum punct-um
+

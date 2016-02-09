@@ -1,0 +1,35 @@
+coNICORUM LIBER 1. · 77
+
+XXII.
+
+Si recta cum diametro non concurrens intra sectionem
+parabolam uel hyperbolam in duobus punctis secat, pro-
+ducta cum diametro sectionis extra sectionem concurret.
+
+sit parabola uel hyperbola, cuius diametrus sit
+ΑΒ, et recta aliqua sectionem secet in duobus punctis
+
+ 
+
+, Γ, Δ. dico, rectam Γ Δ productam cum diametro
+AB extra sectionem concurrere. '
+a Γ, Δ enim ordinate ducantur ΓΕ, ΔΒ, prius
+ᾖς’ autem sectio sit parabola. iam quoniam in parabola
+est ΓΕ2 :A132 = EA: AB [prop. XX]‚ et AE> ΑΒ,
+2 erit etiam Γ E²> AB2. quare etiam Γ Ε> ΛΒ. et
+ᾗ sunt parallelae3 itaque ΓΔ producta cum diametro
+AB extra sectionem concurret.
+’ iam uero sit hyperbola. quoniam igitur in hyper-
+bola est PE2 z ΒΔ2 = ZE >< EA: ZB >< BA [prop.
+XXI], erit etiam ΓΕ2 > AB2. et sunt parallelae3 ita-
+que ΓΔ producta cum diametro sectionis extra sectionem
+concurret.
+
+XXIII.
+
+Si recta ellipsim secat inter ambas diametros posita,
+z„ producta cum utraque diametro extra sectionem con-
+221 ἶ curret.
+
+ 
+

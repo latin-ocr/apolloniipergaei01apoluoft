@@ -1,0 +1,51 @@
+ 
+
+ 
+
+comconUM LIBER 1. ’ 85
+
+XXVII.
+
+Si recta diametrum parabolae secat, in utramque
+partem producta cum sectione concurret.
+
+sit parabola, cuius diametrus sit AB, et hanc recta
+aliqua ΓΔ intra sectionem secet. dico, ΓΛ in utram-
+que partem productam cum sectione concurrere..
+
+' ducatur enim ab A rectae ordinate ductae par-
+allela AE 3 A E igitur extra sectionem cadet [prop. XVII].
+ΓΔ igitur rectae A E aut parallela est aut non par-
+allela.
+
+si igitur ei parallela est, ordinate ducta est3 quare
+in utramque partem producta cum sectione concurret
+[prop. XIX]. ne sit igitur rectae AE par-
+allela‚ et producta cum AE in E con·
+currat. iam igitur eam ad partes E uersus
+cum sectione concurrere, manifestum est3
+nam si cum AE concurrit, multo prius
+sectionem secat. v
+
+dieo, eam etiam ad alteram partem pro-
+ductam cum sectione concurrere: sit enim
+MA parametrus et H Z ordinate ducta,
+et sit AA2=BA><AZ‚ et ΒΚ rectae
+ordinate ductae parallela concurrat cum ΔΓ in Γ.
+quoniam ZA >< AB = AA2‚ erit A132AA=AA=AZ
+[Eucl. VI, 17]. quare etiam BA2AZ = BAzAA
+[Eucl. V, 19]. quare etiam
+
+BA2: ΖΛ2 = BA2 : AA2.
+
+ 
+
+ 
+
+24. διὰ ιθ’ τοῦ ε’ στοιχ. mg. m. 1 V. 25. διὰ κβ’ τοῦ ς’
+
+³ ..Τ “mlx-Vmg· m. 1 V. 27. διὰ H τοῦ ιθ’ τοῦ ς’ στοιχ. mg.
+m. .
+
+ 
+

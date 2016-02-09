@@ -1,0 +1,40 @@
+comcoizUM LIBER 1. Α 67
+
+uerum AE:AB=MK:KB, ZB:BA=NA:AA
+[Eucl. VI, 4]. itaque etiam
+'MK2K13=NA:AA.
+. est autem communi altitudine sumpta KA
+MK·:KB=MK><KA:BK><KA‚
+et communi altitudine BA sumpta -
+NA:AA=NA><AB:AA><AB.
+quare etiam
+MK><KA23K><KA=NA><A132 ΑΛ><ΛΒ.
+et permutando
+MK><KA:NA><AB=BK><KA:AA><AB
+[Eucl. V, 16]. et
+MK><KA=NA><AB.
+quare etiam BK><KA =5AA><AB. itaque AK==AB
+[u. Eutocius} uerum etiam ΑΓ = ΓΒ. quare est
+
+’ KF= ΓΛ. quare etiam ΗΞΞ ΞΘ [Eucl. I, 34].
+
+itaque ΗΘ a ΞΓΛ in duas partes aequales secta est3
+et rectae AB parallela est. ergo etiam ΞΓΛ dia-
+metrus est et cum diametro AB coniugata [def. 6].
+
+Definitiones alterae.
+
+1. Et in hyperbola et in ellipsi punctum medium
+diametri centrum sectionis uocetur, recta autem a
+ι centro ad sectionem ducta radius sectionis,
+
+2. et similiter etiam in oppositis punctum medium
+lateris transuersi centrum uocetur
+
+3. recta autem a centro rectae ordinate ductae
+parallela ducta, quae et mediam rationem habet laterum
+figurae et a centro in duas partes aequales secatur,
+
+diametrus altera uocetur.
+5*
+

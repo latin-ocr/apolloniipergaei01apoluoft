@@ -1,0 +1,42 @@
+CONICORUM LIBER I. 41
+
+rum KA, ΜΝ plano rectarum ΒΓ, ΔΕ parallelum est
+[Euel. XI, 15], hoc est basi coni. quare planum ree-
+
+9 tarum K Λ, ΜΝ circulus est, euius diametrus est ΜΝ
+·“ [prop. IVJ. et Κ Λ ad MN perpendicularis est, quia
+’ etiam Δ Ε ad ΒΓ perpendicularis [Eucl. XI, 10]; quare
+
+ 
+
+ΜΛ >< AN = KA2. et quoniam est
+
+Br223A><Ar=ezzzA‚
+et est
+ΒΓ2 ε BA >< AF= (ΒΓε ΓΑ) >< (ΒΓε ΒΑ),
+ent ΘΖε ZA == (ΒΓ; ΓΛ) >< (ΓΒ : BA).
+uerum
+BF: ΓΑ = MN: NA = MA: AZ [Euel. VI, 4]
+et
+
+.. BstBA=lWNtMA = AMzMZ[ib.] = NAzzA
+
+[Euel. VI, 2]. quare
+
+ΘΖ : ZA = (MA: ΛΖ) >< (NA : ZA).
+est autem
+(MA:AZ)><(AN:ZA)=MA><AN:AZ><ZA.
+
+quare ΘΖ : ΖΑ = ΜΛ ><“ AN: AZ >< ZA.
+
+est autem ZA communi altitudine sumpta
+
+&2:ZA=&Z><ZA:AZ><ZA.
+itaque
+MA ><AN:AZ><ZA=&)Z><ZA:AZ><ZA.
+itaque
+⁷ MA >< AN== ΘΖ >< ZA [Eucl. V, 9].
+uerum ΜΛ >< AN = K ΛΞ. quare etiam
+
+ΚΛ2 = ez >< ZA.
+

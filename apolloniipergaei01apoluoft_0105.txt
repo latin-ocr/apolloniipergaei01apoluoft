@@ -1,0 +1,46 @@
+ 
+
+ 
+
+comcoleM LIBER 1. · 87
+
+quoniam autem est A Δ2 = BA >< A Ζ, erit
+BA : AZ = 13Α2εΑΛ12 [Eucl. V def. 9]‚
+hoc est BA: AZ = ΒΛ2 : AZ2. est autem
+BA2 ε ΔΖ2 = ΒΓ2 : ZH2 [Eucl. VI, 4],
+et AB : AZ = BA >< AM: ZA >< AM. itaque
+BF222H2=BA><AM:ZA><AM.
+et permutando [Eucl. V, 16]
+BF2:BA><AM==ZH2:ZA><AM.
+uerum propter sectionem est ZH2 = ZA >< AM
+[prop. XI]. quare etiam ΒΓ2 = BA >< AM. uerum
+A M latus transuersum est et ΒΓ rectae ordinate
+ductae parallela. ergo sectio per Γ ueniet [prop. XX]‚
+et ΓΔ cum sectione concurrit in Γ.
+
+XXVIII.
+
+Si recta alterutram oppositarum contingit et intra
+alteram sectionem punctum aliquod sumitur, et per id
+recta contingenti parallela ducitur, haec in utramque
+partem producta cum sectione concurret.
+
+sint oppositae, quarum diametrus sit AB, et sec-
+tionem A contingat recta ΓΔ, et intra alteram sec—
+tionem punctum aliquod E sumatur, et per E rectae
+ΓΔ parallela ducatur EZ. dico, EZ in utramque
+partem productam cum sectione concurrere.
+
+quoniam igitur demonstrauimus, ΓΔ productam
+cum diametro AB concurrere [prop. XXIV], eique par-
+allela est ΕΖ, ΕΖ producta cum diametro concurret3
+concurrat in H, et ponatur Α Θ = ΗΒ, et per Θ rec-
+tae ZE parallela ducatur ΘΚ, ordinateque ducatur
+
+ 
+
+ 
+
+8. πρός - ΖΗ] bis V3 corr. p. 11, [διὰ] κ’ τού[του τοῦ
+βιβλίου] mg. m. 1 V. 13. κη’] p, om. V, m. 2 v.
+

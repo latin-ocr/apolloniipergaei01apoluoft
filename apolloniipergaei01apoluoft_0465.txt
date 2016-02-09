@@ -1,0 +1,40 @@
+COMOORUM LIBER 111. 447
+
+allela ducatur ΓΗΕ, ab A autem rectae ΔΗ par-
+allela AM, a A autem rectae AH parallela AM, et
+in sectione A Z sumatur punctum aliquod Z, ducantur-
+que ΑΝΖ,ΖΛΘ.(1160,6636
+PH2: AH>< HA== AA2. ΑΘ >< NA.
+nam per Z rectae AA parallela ducatur ZAK Β.
+quoniam igitur demonstratum est, esse
+ΕΗ2 : HA2 = BA >< AZ : AA2 [prop. XX],
+
+et FH= ΕΗ, BK= AZ [IL 383 Eucl. VI, 4]‚ erit
+ΓΗ2 : HA2 = KZ >< ZA ε AA2. uerum etiam
+ΔΗ2 : AH>< HA = AA2: AA >< ΑΚ [Ε661. VI, 2];
+ex aequo igitur [Eucl. V, 22]
+
+FH22AH><HA=KZ><ZAzAA><AK
+uerum
+KZ >< ZA: AK>< AA = (ZK: KA) >< (ZA: AA).
+est autem ZK. KA= AA: AN,
+
+ZA: AA= AA: ΘΑ [Euel. VI, 4]-
+
+itaque FH2: AH>< HA = (AA= AN) ><(AA. ΛΘ).
+est autem
+
+AA2. ΑΘ >< NA— = (AA· . AN) >< (AA· . ΑΘ).
+ergo FH2 : AH>< HA = AA2 : NA >< ΛΘ.
+
+LVI.
+
+Si duae rectae alteram oppositarum contingentes
+concurrunt, et per puncta contactus contingentibus
+parallelae ducuntur, a punctis contactus autem ad
+idem punctum alterius sectionis rectae ducuntur secantes
+parallelaS, rectangulum comprehensum partibus abs—
+cisis ad quadratum rectae puncta contactus coniun-
+gentis rationem habebit compositam ex ea, quam
+habet rectae punctum concursus punctumque medium
+

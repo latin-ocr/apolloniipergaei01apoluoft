@@ -1,0 +1,46 @@
+ 
+
+CONICORUM LIBER Ι. - 73 Ι
+
+recta ab A rectae ordinate ductae parallela ducta extra
+sectionem cadit [prop XVII], et cum illa concurrit
+ΑΔ, et ΒΓ rectae ordinate ductae parallela est, etiam
+ΒΓ cum AA concurret. et siue inter puncta A, A
+concurrit, manifestum est, eam etiam cum sectione
+concurrere, siue extra A concurrit ut in E, prius
+cum sectione concurret. ergo recta a B rectae ordinate
+ductae parallela ducta cum sectione concurret.
+
+XX.
+
+Si in parabola a sectione duae rectae ad diametrum
+ordinate ducuntur, erunt, ut quadrata earum inter
+Λ se, ita rectae ab iis e diametro ad
+
+uerticem sectionis abscisae.
+
+sit parabola, cuius diametrus sit
+Α E Z B A Β, et in ea puncta aliqua sumantur
+Γ, Δ, et a Γ, Δ ad 413 ordinate
+
+ducantur ΓΕ, ΔΖ. dico, esse
+
+ΔΖ2 : ΓΕΒ == ZA : AE.
+sit enim parametrus A H. est igitur
+‚y [prop. XI] ΔΖΒ = ΖΑ >< ΑΗ, ΓΕ2 = ΕΑ >< ΑΗ.
+ζ quare
+
+1⁷
+
+AZ22FE2=ZA><AHzEA><AH
+est autem
+
+ZA><AH:EA><AH=ZA:AE.
+ergo etiam ΔΖ2 : ΓΕ2 -- ΖΑ : ΑΕ.
+
+ΧΧΙ.
+Si in hyperbola uel ellipsi uel ambitu circuli
+
+- rectae ad diametrum ordinate ducuntur, quadrata earum
+ad spatia comprehensa rectis ab iis ad terminos lateris
+

@@ -1,0 +1,39 @@
+OONIGORUM LIBER 1. > 79
+
+sit ellipsiS, cuius diametri sint ΑΒ, ΓΔ, et recta
+EZ inter diametros AB, ΓΛ posita sectionem secet.
+dico, rectam EZ productam cum
+utraque diametro ΑΒ, ΓΔ extra
+sectionem concurrere.
+ducantur enim ab E, Z ad
+AB ordinate ΗΕ, ΖΘ, ad ΔΓ
+autem ΕΚ, ΖΛ. erit igitur
+[prop. XXI]
+EH2: 2692— = BH><HA: ΒΘ >< ΘΑ,
+, ZA22 EK2= AA >< AF: AK: ΚΓ.
+est autem BH>< HA > ΒΘ >< ΘΑ, Η enim puncto
+medio propius est [Eucl. ΙΙ, 5]; et
+ΔΛ >< ’ΛΓ> ΔΚ ><ΚΓ [ib.].
+quare etiam HE2> ΖΘ2, ΖΛ2> EK2. itaque etiam
+HE> ΖΘ, ΖΛ > ΕΚ. et HE rectae ΖΘ, ΖΛ rectae
+ΕΚ parallela est. ergo EZ producta cum utraque
+diametro ΑΒ, ΓΔ extra sectionem concurret.
+
+ 
+
+XXIV.
+
+Si recta cum parabola uel hyperbola in uno puncto
+concurrens in utramque partem producta extra sectio-
+
+nem cadit‚ cum diametro con-
+curret. .
+sit parabola uel hyperbole„
+cuius diametrus sit A B, et
+recta Γ ΛΕ cum ea in A con-
+currat, et in utramque partem
+producta extra sectionem cadat.
+
+dico, eam cum diametro AB concurrere.
+sumatur enim in sectione punctum aliquod Z, et
+

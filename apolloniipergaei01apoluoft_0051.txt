@@ -1,0 +1,41 @@
+GONICORUM LIBER Ι. 33
+
+ΒΓ parallela ducatur ΚΘΛ, reotae autem ΔΕ par-
+allela ΜΘΝ 3 itaque planum rectarum Κ Λ, MN plano
+rectarum ΒΓ, ΔΕ parallelum est [Eucl. XI, 15]. ita-
+que planum ΚΛΜΝ circulus est [prop. IV]. et quon-
+iam ’ puncta A, E, M, Ν in plano secanti sunt, uerum
+etiam· in superficie coni, in communi sectione sunt3
+quare AZE ad puncta M, Ν creuit. itaque crescente
+superficie coni planoque secanti ad circulum ΚΛΜΝ
+etiam sectio A ZE ad puncta M, Ν creuit. similiter
+igitur demonstrabimuS, si et superficies coni et planum
+secans in infinitum producantur, etiam sectionem
+MAZEN in infinitum crescere.
+
+et manifestum est, rectam quandam a ΖΘ recta
+ad. Z punctum rectam cuiuis datae rectae aequalem
+
+abscisuram esse. nam si ΖΞ rectae datae aequalem '
+. ponimus et per Ξ rectae A E parallel-am ducimUS, cum
+
+sectione concurret, sicut etiam rectam per Θ ductam
+cum sectione in punctis M, Ν concurrere demon-
+strauimus, ergo recta quaedam cum sectione con-
+currens rectae ΛΕ parallela ducitur, quae a ZH ad
+punctum Z rectam datae aequalem abscindat.
+
+IX.
+
+Si conus plano secatur cum utroque latere trian-
+guli per axem positi concurrenti, sed neque basi par-
+allelo neque e contrario ducto, sectio circulus non erit.
+
+sit conus, cuius uertex sit A punctum, basis autem
+circulus ΒΓ, et secetur plano neque basi parallelo
+neque e contrario posit0, quod-in superficie sectionem
+efficiat lineam ΛΚΕ. dico, lineam ΛΚΕ circulum
+
+ΠΟΠ 6888.
+Apollonius, ed. Heiberg. 3
+

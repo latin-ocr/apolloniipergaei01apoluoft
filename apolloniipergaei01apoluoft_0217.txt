@@ -1,0 +1,41 @@
+comconUM LIBER 11. ⁵ 199
+
+sit hyperbola ABI, centrum autem eius E et
+asymptotae ΖΕ, ΕΗ, eamque contingat in Β recta
+
+aliqua ΘΚ. dico, &Kproductam cum ΖΕ, ΕΗ con-
+currere.
+
+nam si fieri potest, ne concurrat, et ducta ΕΒ
+producatur, ponaturque EA = ΒΕ, ΒΔ igitur dia-
+metrus est. ponatur igitur ΘΒ2 et ΒΚ2 quartae parti
+figurae ad BA effectae aequale, ducanturque ΕΘ, ΕΚ.
+hae igitur asymptotae sunt [prop. I]3 quod absurdum
+est [prop. II]; supposuimus enim, ΖΕ, ΕΗ asymptotas
+
+esse. ergo ΚΘ producta cum asymptotis ΕΖ, ΕΗ in
+Z, H concurret. ,
+
+iam dico, esse etiam ΒΖ2 et ΒΗ2 quartae parti
+f· figurae ad BA effectae aequalia.
+
+ne sint enim, sed, si fieri potest, sit ΒΘ2 et ΒΚ2
+
+’ quartae parti figurae aequale. itaque ΘΕ, ΕΚ asym-
+
+ptotae sunt [prop. I]; quod absurdum est [prop. II].
+ergo ΖΒ2 et ΒΗ 2 quartae parti figurae ad BA effectae
+aequalia sunt.
+
+IV.
+
+Datis duabus rectis angulum comprehendentibus
+punctoque intra angulum posito per punctum coni
+sectionem, hyperbola quae uocatur, ita describere, ut
+datae rectae asymptotae sint.
+
+sint duae rectae ΑΓ, ΑΒ quemuis angulum com-
+prehendentes ad A positum, datumque sit punctum
+aliquod Δ, et oporteat per A in asymptotis ΓΑΒ
+hyper-bolam describere.
+

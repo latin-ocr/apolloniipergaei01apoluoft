@@ -1,0 +1,43 @@
+” ordinateque ducatur ZH. iam quoniam est EA = BZ,
+et AB communis est, erit
+
+BE><EA = AZ>< ZB.
+
+Ι ¹ comcossUM LIBER 1. ’ 91
+³ ordinate enim ducatur ΕΔ, et ponatur BZ = AE,
+
+B Ζ et quoniam est, ut
+Ε ΒΕ >< EA: AE2‚
+ita latus transuersum ad
+latus rectum7· uerum etiam
+ut AZ >< ZB : ZH2, ita latus transuersum ad latus
+rectum [prop. XX1], erit etiam
+
+BE><EA:AE2=AZ><ZB: ZH2.
+est autem BE >< EA = AZ >< ZB. quare etiam
+EA2 = ΖΗ2 [Eucl. V, 9].
+quoniam igitur est ΕΓ--- ΓΖ, ΔΕ = ΖΗ, et ΕΖ
+recta est, et EA rectae ZH parallela‚ etiam AH
+
+recta est [cfr. Eucl. VI, 32]. ergo etiam Γ Δ alteram
+quoque sectionem secabit.
+
+ff
+
+XXX.
+
+Si in ellipsi uel oppositis recta ducitur ad utram-
+que partem centri cum sectione concurrenS, in centro
+in duas partes aequales secabitur.
+
+sint ellipsis uel oppositae, earumque diametrus A Β,
+centrum autem Γ, et per Γ recta ducatur Δ ΓΕ. dico,
+esse ΓΔ -- ΓΕ.
+
+ordinate enim ducantur Λ Ζ, ΕΗ. et quoniam
+est, ut BZ >< ZA ε ZA2, ita latus transuersum ad.
+latus rectum, uerum etiam ut AH >< ΗΒ : HE2‚ ita
+latus transuersum ad latus rectum [prop. XXI] , erit
+
+ 
+
